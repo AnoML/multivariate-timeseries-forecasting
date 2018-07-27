@@ -1,2 +1,6 @@
 # MultivariateTimeSeriesForecasting
-A set of algorithms using for Multivariate Time-Series Forecasting
+
+Analyzing LSTMs and GRUs for time series forecasting.
+
+- Data file         - LOAD.csv
+- Jupyter Notebook  - LoadPrediction.ipynb
